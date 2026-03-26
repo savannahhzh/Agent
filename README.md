@@ -1,5 +1,6 @@
 ## 学习文档：
 langchain: https://docs.langchain.com/oss/javascript/langchain/overview
+api reference: https://reference.langchain.com/python/langchain/overview
 博客： https://www.cuiliangblog.cn/detail/section/228761176
 
 
@@ -35,3 +36,8 @@ System message —— 告诉模型如何行为并为交互提供上下文；
 Human message —— 表示用户输入和与模型的交互
 AI message —— 模型生成的响应，包括文本内容、工具调用和元数据
 Tool message —— 表示工具调用的输出
+
+
+## Prompt
+### PromptTemplate
+### ChatPromptTemplate
